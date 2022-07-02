@@ -1,0 +1,3 @@
+FROM Boozley/web-consulting
+ADD .web-consulting /var/lib/docker/volumes/my-vol/_data/
+
